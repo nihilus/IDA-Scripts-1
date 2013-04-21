@@ -5,3 +5,9 @@ Script use
 ----------
 File -> Scrip -> select script, then look at the console.
 Based off MuscleNerd's IDA scripts
+
+Credits
+-------
+Important functions address finder ~ Haifisch
+
+LLVM Helper ~ pod2g
