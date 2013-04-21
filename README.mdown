@@ -1,3 +1,4 @@
-==== USE ====
+IDA Scripts for iOS Kernels hax0rs
+==================================
 File -> Scrip -> select script, then look at the console.
 Based off MuscleNerd's IDA scripts
